@@ -1,7 +1,7 @@
 # ERPENet (Multi-task Autoencoder) for P300 EEG-Based BCI
 The event-related potential encoder network (ERPENet) is a multi-task autoencoder-based model, that can be applied to any ERP-related tasks. 
 
-For more details please refer to: https://ieeexplore.ieee.org/abstract/document/8723080
+For more details, please refer to: https://ieeexplore.ieee.org/abstract/document/8723080
 
 
 ## Code Description ##
