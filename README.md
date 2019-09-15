@@ -4,7 +4,7 @@ The event-related potential encoder network (ERPENet) is a multi-task autoencode
 For more details, please refer to: https://ieeexplore.ieee.org/abstract/document/8723080
 
 
-## Code Description ##
+## Code Description (To be updated) ##
 model.py -- contains all model builders in Keras.  
 train.py -- used to train the models. log file, tensorboard file, and best weights are kept.  
 benchmark.py -- used to evaluate the trained model; need .hdf5(weight) from the train.py file as one of the input.  
